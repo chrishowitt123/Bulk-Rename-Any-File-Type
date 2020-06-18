@@ -3,7 +3,6 @@ import os
 from os import listdir
 from os.path import isfile, join
 import pandas as pd
-import pandas as pd
 from pathlib import Path
 import numpy
 from datetime import datetime
